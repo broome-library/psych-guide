@@ -17,7 +17,7 @@ _\(CSU Northridge, 2011\)_
 
 ## Sources for Tests and Measurements
 
-University of Texas at Arlington's[Tests and Measurements in the Social Sciences](https://web.archive.org/web/20150906152046/http:/www.refworks.com/refshare/?site=020461141200000000/RWWS4A1109852/000251067628646000)website
+University of Texas at Arlington's[Tests and Measurements in the Social Sciences](http:/www.refworks.com/refshare/?site=020461141200000000/RWWS4A1109852/000251067628646000)website
 
 This site provides a list of test entries which include only instrument title, author, date, and pages located in larger compilation.To obtain any of these resources, you can:
 
@@ -25,11 +25,10 @@ This site provides a list of test entries which include only instrument title, a
 
 2. Contact YOUR library Interlibrary Loan department or other services available at your institution.
 
-[Mental Measurements Yearbook \(EBSCO\)](https://web.archive.org/web/20150906152046/http:/summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=mmt)
+[Mental Measurements Yearbook \(EBSCO\)](http:/summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=mmt)
 
 TheMental Measurements Yearbook \(MMY\) database provides users with a comprehensive and descriptiveindex of over 2,700 tests used for psychological research. The descriptive information included in each test entry consists of test name, intended population, publication dates, forms and prices, test author, and publisher.
 
-[FAQ's](https://web.archive.org/web/20150906152046/http:/www.apa.org/science/programs/testing/find-tests.aspx)
+[FAQ's](http:/www.apa.org/science/programs/testing/find-tests.aspx)
 
 The American Psychological Association \(APA\) has a Frequently Asked Questionswebpage which answers many questions about how and where to find different published and unpublished psychological tests and measurements.
-
