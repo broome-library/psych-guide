@@ -1,6 +1,6 @@
 # {{ config.title }}
-
-## Welcome to the John Spoor Broome Library's {{ config.title }}.
+---
+Welcome to the John Spoor Broome Library's {{ config.title }}.
 
 ### Sigmund Freud says...
 > _"Sometimes a cigar is just a cigar." _
