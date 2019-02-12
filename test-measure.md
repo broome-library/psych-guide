@@ -37,5 +37,3 @@ Extensive collection of psychological measures, research instruments, scales, su
 
 The American Psychological Association \(APA\) has a Frequently Asked Questions webpage which answers many questions about how and where to find different published and unpublished psychological tests and measurements.
 
-
-
