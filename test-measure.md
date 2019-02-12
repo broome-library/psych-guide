@@ -17,18 +17,25 @@ _\(CSU Northridge, 2011\)_
 
 ## Sources for Tests and Measurements
 
-University of Texas at Arlington's[Tests and Measurements in the Social Sciences](http:/www.refworks.com/refshare/?site=020461141200000000/RWWS4A1109852/000251067628646000)website
+University of Texas at Arlington's [Tests and Measurements in the Social Sciences](http:/www.refworks.com/refshare/?site=020461141200000000/RWWS4A1109852/000251067628646000) website
 
 This site provides a list of test entries which include only instrument title, author, date, and pages located in larger compilation.To obtain any of these resources, you can:
 
 1. Check your library to see if it has the source volume;
 
-2. Contact YOUR library Interlibrary Loan department or other services available at your institution.
+2. Contact Broome Library [Interlibrary Loan department](https://library.csuci.edu/services/ill.htm) or other services available at your institution.
 
 [Mental Measurements Yearbook \(EBSCO\)](http:/summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=mmt)
 
-TheMental Measurements Yearbook \(MMY\) database provides users with a comprehensive and descriptiveindex of over 2,700 tests used for psychological research. The descriptive information included in each test entry consists of test name, intended population, publication dates, forms and prices, test author, and publisher.
+The Mental Measurements Yearbook \(MMY\) database provides users with a comprehensive and descriptive index of over 2,700 tests used for psychological research. The descriptive information included in each test entry consists of test name, intended population, publication dates, forms and prices, test author, and publisher.
+
+[PsycTESTS \(EBSCO\)](http://summit.csuci.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=pst)
+
+Extensive collection of psychological measures, research instruments, scales, surveys, and test types in a variety of subject areas. Coverage spans more than 100 years with emphasis on current research instruments.
 
 [FAQ's](http:/www.apa.org/science/programs/testing/find-tests.aspx)
 
-The American Psychological Association \(APA\) has a Frequently Asked Questionswebpage which answers many questions about how and where to find different published and unpublished psychological tests and measurements.
+The American Psychological Association \(APA\) has a Frequently Asked Questions webpage which answers many questions about how and where to find different published and unpublished psychological tests and measurements.
+
+
+
