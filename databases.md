@@ -8,17 +8,13 @@
 
 > PsycArticles is a full-text databases that provides access to journal articles from the American Psychological Association journals in psychology and related disciplines.
 
-### [**PsycCritiques**](http:/summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=pvh)
-
-> PsycCritiques is a full-text database with access to tens of thousands of incisive book and film reviews from 1956 to present.
-
 ## [**JSTOR**](http:/summit.csuci.edu:2048/login?url=http://www.jstor.org/search)
 
 > JSTOR is aninterdisciplinary archive database with academic journals across the humanities, social sciences, and sciences. It does not include items published within the last 3-5 years.
 
 ## [**Springer Press**](http:/summit.csuci.edu:2048/login?url=http://www.springerlink.com)
 
-> _**SpringerLink**_is a full-text database for journals and books published by Springer. Thedatabase also features an entire section onPsychology.
+> \_**SpringerLink**\_is a full-text database for journals and books published by Springer. Thedatabase also features an entire section onPsychology.
 
 ## [**Wiley Online Library**](http:/summit.csuci.edu:2048/login?url=http://onlinelibrary.wiley.com)
 
@@ -27,3 +23,6 @@
 ## [**Gale Virtual Reference Library**](http:/summit.csuci.edu:2048/login?url=http://infotrac.galegroup.com/itweb/csuci?db=GVRL)
 
 > Offer access to more than 8,000 Reference ebooks covering biographies and titles in the humanities and sciences.
+
+
+
